@@ -1,0 +1,254 @@
+[
+    {
+        "nombre": "Whisky Sour",
+        "section": "Whisky",
+        "descripcion": "El Whisky Sour es un clásico cóctel que combina whisky, jugo de limón, jarabe de azúcar y a veces clara de huevo para darle una textura espumosa. Es agrio, dulce y refrescante, con el equilibrio perfecto entre el whisky robusto y el ácido del limón.",
+        "precio": 8,
+        "imagen": "whisky-sour.png"
+    },
+    {
+        "nombre": "Manhattan",
+        "section": "Whisky",
+        "descripcion": "El Manhattan es un cóctel clásico hecho con whisky, vermut rojo y amargos, servido en una copa de cóctel con una cereza como adorno.",
+        "precio": 10,
+        "imagen": "manhattan.png"
+    },
+    {
+        "nombre": "Mint Julep",
+        "section": "Whisky",
+        "descripcion": "El Mint Julep es un cóctel clásico sureño hecho con bourbon, azúcar, agua y hojas de menta fresca, servido sobre hielo triturado.",
+        "precio": 12,
+        "imagen": "mint-julep.png"
+    },
+    {
+        "nombre": "Padrino",
+        "section": "Whisky",
+        "descripcion": "El Padrino es un cóctel clásico que combina whisky y amaretto para crear una mezcla equilibrada y suave.",
+        "precio": 6,
+        "imagen": "Padrino.png"
+    },
+    {
+        "nombre": "Whisky on the Rocks",
+        "section": "Whisky",
+        "descripcion": "Whisky on the Rocks es un cóctel simple y clásico que consiste en servir whisky directamente sobre hielo.",
+        "precio": 12,
+        "imagen": "WhiskyOnTheRocks.png"
+    },
+    {
+        "nombre": "Rusty Nail",
+        "section": "Whisky",
+        "descripcion": "El Rusty Nail es un cóctel clásico hecho con whisky escocés y Drambuie, un licor dulce de whisky y hierbas.",
+        "precio": 9,
+        "imagen": "rusty-nail.png"
+    },
+    {
+        "nombre": "Corazonada",
+        "section": "Ron",
+        "descripcion": "Corazonada es un cóctel con base de ron añejo, anís, sirope de fresa y zumo de fresa, de limón y de naranja.",
+        "precio": 7,
+        "imagen": "corazonada.png"
+    },
+    {
+        "nombre": "Cuba Libre",
+        "section": "Ron",
+        "descripcion": "El \"Cuba Libre\" es un cóctel clásico que generalmente se prepara con ron, cola y limón.",
+        "precio": 10,
+        "imagen": "CubaLibre.png"
+    },
+    {
+        "nombre": "Daikiri Clásico",
+        "section": "Ron",
+        "descripcion": "El Daiquiri clásico es un cóctel refrescante compuesto por ron blanco, azúcar y jugo de limón.",
+        "precio": 7,
+        "imagen": "DaikiriClasico.png"
+    },
+    {
+        "nombre": "Mojito Clásico",
+        "section": "Ron",
+        "descripcion": "El Mojito clásico es un cóctel cubano que combina ron blanco, azúcar, jugo de limón, menta y soda.",
+        "precio": 7,
+        "imagen": "mojitoClasico.png"
+    },
+    {
+        "nombre": "Mojito Frutilla",
+        "section": "Ron",
+        "descripcion": "El Mojito de fresa es una variante del clásico cóctel cubano que incorpora fresas frescas a la mezcla tradicional de ron blanco, azúcar, jugo de limón, menta y soda.",
+        "precio": 15,
+        "imagen": "mojitoFrutilla.png"
+    },
+    {
+        "nombre": "Piña Colada",
+        "section": "Ron",
+        "descripcion": "La Piña Colada es un cóctel tropical que combina ron blanco, crema de coco y jugo de piña.",
+        "precio": 5,
+        "imagen": "pina-colada.png"
+    },
+    {
+        "nombre": "Caipirinha",
+        "section": "Ron",
+        "descripcion": "La Caipirinha es un cóctel brasileño clásico que combina cachaça, azúcar y lima, creando una bebida refrescante y ligeramente dulce.",
+        "precio": 7,
+        "imagen": "caipirinha.png"
+    },
+    {
+        "nombre": "Pitufo",
+        "section": "Ron",
+        "descripcion": "Este cóctel suele estar compuesto por ron, curaçao azul, jugo de limón o lima, y azúcar o jarabe.",
+        "precio": 12,
+        "imagen": "pitufo.png"
+    },
+    {
+        "nombre": "Margarita Blue",
+        "section": "Tequila",
+        "descripcion": "La Margarita Blue es una variante fresca y colorida del clásico cóctel Margarita, con tequila, licor de naranja, jugo de lima y curaçao azul.",
+        "precio": 10,
+        "imagen": "margaritaBlue.png"
+    },
+    {
+        "nombre": "Margarita Clásico",
+        "section": "Tequila",
+        "descripcion": "La Margarita clásica es una mezcla refrescante de tequila, triple sec y jugo de lima, servida en un vaso escarchado con sal.",
+        "precio": 10,
+        "imagen": "margaritaClasico.png"
+    },
+    {
+        "nombre": "Margarita Frutilla",
+        "section": "Tequila",
+        "descripcion": "La Margarita de fresa combina tequila, licor de naranja, puré de fresas y jugo de lima, creando una variante dulce y refrescante del clásico.",
+        "precio": 16,
+        "imagen": "MargaritaFrutilla.png"
+    },
+    {
+        "nombre": "Martini",
+        "section": "Tequila",
+        "descripcion": "El Martini es un elegante cóctel que generalmente se elabora con ginebra y vermut seco, decorado con una aceituna o piel de limón.",
+        "precio": 10,
+        "imagen": "martini.png"
+    },
+    {
+        "nombre": "Martini Frutilla",
+        "section": "Tequila",
+        "descripcion": "El Martini de fresa es una versión afrutada del clásico Martini, destacando por su toque dulce y refrescante con la adición de puré o licor de fresa.",
+        "precio": 11,
+        "imagen": "martiniFrutilla.png"
+    },
+    {
+        "nombre": "Tequila Sunrise",
+        "section": "Tequila",
+        "descripcion": "El Tequila Sunrise es un cóctel refrescante con tequila, jugo de naranja y un toque de grenadina, destacando por su atractiva apariencia degradada.",
+        "precio": 10,
+        "imagen": "tequilaSunrise.png"
+    },
+    {
+        "nombre": "Vodka Tonic",
+        "section": "Vodka",
+        "descripcion": "El Vodka Tonic es una bebida refrescante que mezcla vodka con agua tónica, destacando por su simplicidad y equilibrio.",
+        "precio": 9,
+        "imagen": "vodkaTonic.png"
+    },
+    {
+        "nombre": "Cosmopolitan",
+        "section": "Vodka",
+        "descripcion": "El Cosmopolitan es un cóctel clásico que combina vodka, triple sec, arándano y jugo de limón, creando una bebida elegante y equilibrada.",
+        "precio": 9,
+        "imagen": "cosmopolitan.png"
+    },
+    {
+        "nombre": "Destornillador",
+        "section": "Vodka",
+        "descripcion": "El Destornillador es un cóctel sencillo que mezcla vodka con jugo de naranja, ofreciendo una bebida refrescante y fácil de disfrutar.",
+        "precio": 10,
+        "imagen": "destornillador.png"
+    },
+    {
+        "nombre": "Sex on the Beach",
+        "section": "Vodka",
+        "descripcion": "Sex on the Beach es un cóctel tropical que combina vodka, licor de durazno, jugo de arándano y jugo de naranja, creando una bebida colorida y sabrosa con un toque frutal.",
+        "precio": 9,
+        "imagen": "sexOnTheBeach.png"
+    },
+    {
+        "nombre": "Vodka Sunrise",
+        "section": "Vodka",
+        "descripcion": "El Vodka Sunrise es una mezcla de vodka, jugo de naranja y grenadina, creando un cóctel colorido y refrescante.",
+        "precio": 13,
+        "imagen": "vodkaSunrise.png"
+    },
+    {
+        "nombre": "Gin Tonic",
+        "section": "Gin",
+        "descripcion": "Gin Tonic es un refrescante cóctel que combina ginebra y agua tónica, servido sobre hielo y adornado con rodajas de limón o enebro.",
+        "precio": 16,
+        "imagen": "gin tonic.png"
+    },
+    {
+        "nombre": "Gin Tonic Frutos Rojos",
+        "section": "Gin",
+        "descripcion": "Gin Tonic de frutos rojos es una variante del clásico cóctel, que incorpora ginebra, agua tónica y una mezcla de frutos rojos para un toque fresco y afrutado.",
+        "precio": 16,
+        "imagen": "GT frutos rojos.png"
+    },
+    {
+        "nombre": "Floradora",
+        "section": "Gin",
+        "descripcion": "El Floradora es un cóctel que mezcla gin, jugo de frambuesa, lima y jarabe de jengibre, servido con hielo y soda.",
+        "precio": 16,
+        "imagen": "floradora.png"
+    },
+    {
+        "nombre": "Gimlet",
+        "section": "Gin",
+        "descripcion": "Una mezcla de gin con jugo de lima o limón y jarabe de azúcar, a menudo servido en una copa de cóctel.",
+        "precio": 16,
+        "imagen": "Gimlet.png"
+    },
+    {
+        "nombre": "Negroni",
+        "section": "Gin",
+        "descripcion": "Hecho con partes iguales de gin, vermut rojo y Campari, servido sobre hielo y a menudo decorado con una cáscara de naranja.",
+        "precio": 16,
+        "imagen": "negroni.png"
+    },
+    {
+        "nombre": "Southside",
+        "section": "Gin",
+        "descripcion": "Gin mezclado con jugo de limón, jarabe de azúcar y hojas de menta, similar a un Mojito pero con gin en lugar de ron.",
+        "precio": 16,
+        "imagen": "southside.png"
+    },
+    {
+        "nombre": "Sangría",
+        "section": "Vino",
+        "descripcion": "La sangría es una bebida española a base de vino tinto y frutas, ideal para disfrutar en compañía.",
+        "precio": 16,
+        "imagen": "sangria.png"
+    },
+    {
+        "nombre": "Tinto de Verano",
+        "section": "Vino",
+        "descripcion": "El tinto de verano es una refrescante bebida española elaborada con vino tinto y soda, perfecta para días calurosos.",
+        "precio": 12,
+        "imagen": "tinto de verano.png"
+    },
+    {
+        "nombre": "Bellini",
+        "section": "Vino",
+        "descripcion": "Una bebida italiana que mezcla puré de durazno o néctar de durazno con vino espumoso.",
+        "precio": 13,
+        "imagen": "Bellini.png"
+    },
+    {
+        "nombre": "Kir Royale",
+        "section": "Vino",
+        "descripcion": "Una variación del Kir clásico que utiliza vino espumoso, como Champagne o Cava, mezclado con licor de grosella negra.",
+        "precio": 16,
+        "imagen": "Kir Royale.png"
+    },
+    {
+        "nombre": "Spritz",
+        "section": "Vino",
+        "descripcion": "Una bebida refrescante originaria de Italia que combina vino blanco espumoso con agua con gas o soda y un amargo, como Aperol o Campari.",
+        "precio": 14,
+        "imagen": "Spritz.png"
+    }
+]
