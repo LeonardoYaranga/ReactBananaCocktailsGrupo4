@@ -5,4 +5,4 @@ const db = new Sequelize('database_bananacocktails', 'root','',{
     dialect: 'mysql'
     });
 
-    export default db;
+export default db;
